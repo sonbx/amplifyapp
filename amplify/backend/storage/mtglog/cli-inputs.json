@@ -1,0 +1,12 @@
+{
+  "resourceName": "mtglog",
+  "policyUUID": "6569c363",
+  "bucketName": "sonbx-mtglog-test",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
